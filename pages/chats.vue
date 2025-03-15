@@ -25,6 +25,7 @@
         chats: [
           { id: 1, name: "Ivan", messages: [] },
           { id: 2, name: "Anton", messages: [] },
+            { id: 3, name: "Vova", messages: [] },
         ],
         selectedChat: null,
       };
