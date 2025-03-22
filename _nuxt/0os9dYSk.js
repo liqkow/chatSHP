@@ -1,0 +1,1 @@
+import{_ as n,t as o,x as t,v as r}from"./BiD0Ckzc.js";const s={};function a(l,e){return r(),o("div",null,e[0]||(e[0]=[t("h1",null," Ваше имя ",-1),t("input",{type:"text"},null,-1)]))}const u=n(s,[["render",a]]);export{u as default};
